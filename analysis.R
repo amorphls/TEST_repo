@@ -4,3 +4,10 @@ plot(x,y)
 summary(x)
 median(x)
 mean(x)
+#Last night something scary happen..
+#I poop twice.
+
+...
+
+#They're twins. 
+#I am afraid to poop today.
